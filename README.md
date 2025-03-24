@@ -22,7 +22,7 @@ And that's it. Really, I just wanted to get this out of my head, and I thought s
 For the cardboard prototype I used a cutting mat, hobby knife, metal ruler, hot glue, and a permanent marker.
 
 ## Reference Material
-Check out the folder in this repository for a 2D SVG, and a 3D Model (coming soon), if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
+Check out the folder in this repository for a [2D SVG](files/terrain-tiles.svg), and a 3D Model (coming soon), if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
 
 ## How To
 A more detailed guide will be procided in a separate markdown file shortly. I took some pictures for it already, I just need to finish writing it.
