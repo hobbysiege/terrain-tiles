@@ -11,9 +11,9 @@ I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to co
 And that's it. Really, I just wanted to get this out of my head, and I thought some other folks might benefit from the idea and a bit of my know-how. I'm hoping others will take the idea, feed and water it, help it grow. Then maybe I can make something cool from your ideas. I'm too cheap for Zone Mortalis, especially since it is expected you would glue your buildings down.
 
 ## Recomended Materials
-- You will need `1/8"` thick sheet material, I would recommend PVC Sheet if you can get your hands on it, but something like hardboard would work just as well and is available at the big box hardware stores. I even use cardboard for the prototype, seen in the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#examples). Another option might be corrugated plastic sheeting (Coroplast).
+- You will need `1/8"` thick sheet material, I would recommend PVC Sheet if you can get your hands on it, but something like hardboard would work just as well and is available at the big box hardware stores. I even use cardboard for the prototype, seen in the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#example). Another option might be corrugated plastic sheeting (Coroplast).
 - Glue! This will depend entirely on your sheet materials. Traditianal xyanoacrylate (super glue) should work fine for the plastics, wood glue might be best for hardboard. Hell, hot glue might be a reasonable option for some of these. I don't know different until you tell me.
-- Thats it really, you will probably want to decorate these someway with paints. In the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#examples) I just used permant marker on the cardboard. I think it gives it a charming cell-shaded like appearance.
+- Thats it really, you will probably want to decorate these someway with paints. In the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#example) I just used permant marker on the cardboard. I think it gives it a charming cell-shaded like appearance.
 
 ## Recommended Tools
 - Traditional Flexible Tile Spacers, both `1/8"` and `1/16"`. These will help keep your grid consistent, `1/8"` for between tiles and `1/6"` for the edge of each board. These are also availabe at the big box hardware stores. Alternatively, you can just draw a `2"x2"` grid offset by `1/16"` directly onto your board like I do in the how to guide.
@@ -39,8 +39,8 @@ Note: I like to work in multiples of `1 7/8"` when measuring vertically. Adding 
 - Table saw bladers are 1/8" thick. If you felt so inclined, you could get 1/4" material and cut the grooves into your boards.
 - Print it using the stl file ive added. Make modifications to it, share it back here.
 
-## Examples
-Images coming soon, I just need to get them up here.
+## Example
+![a cardboard example of this concept](images/6.jpg)
 
 ## End Credits
 As of right now, I am the only contributer. If you want to support me, check out my [instagram page](https://www.instagram.com/hobbysiege/). I would also like to shout out [awesomenessdude0](https://www.instagram.com/awesomenessdude0/) for being a sounding board on this and an all around good dude. I was also loosely inspired by [gridfinity](https://gridfinity.xyz/). If this gains traction maybe I will add a donation link. If you would like to contribute and know what you are doing, feel free to make a pull request. Otherwise you could open an issue.
