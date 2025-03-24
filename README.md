@@ -5,7 +5,7 @@ An open source project hoping to make a diy option for tiling modular war gaming
 I will refer to the bigger, `~12"x12"` base squares with the term "boards". The gridded squares that are atop them will be referred to as "tiles".
 
 ## The Idea
-I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to come up with an alternative. This design improves upon those (in my opinion) by presenting an open source, repeatable, DIY framework that doesnt require glueing anything down. I wanted a `12"x12"` board with a 6x6 grid to mimic the name brand option, and I wanted to figure out all the math for you. A system like this shines for a game like Necromunda.
+I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to come up with an alternative. This design improves upon those (in my opinion) by presenting an open source, repeatable, DIY framework that doesnt require glueing anything down. I wanted a `12"x12"` board with a 6x6 grid to mimic the name brand option, and I wanted to figure out all the math for you. A system like this shines for a game like Necromunda. Each terrain element should sit into the recesses we create with the tiles.
 
 ## OK, And?
 And that's it. Really, I just wanted to get this out of my head, and I thought some other folks might benefit from the idea and a bit of my know-how. I'm hoping others will take the idea, feed and water it, help it grow. Then maybe I can make something cool from your ideas. I'm too cheap for Zone Mortalis, especially since it is expected you would glue your buildings down.
