@@ -11,6 +11,10 @@ an open source project hoping to make a diy option for tiling modular war gaming
 ## Recommended Tools
 - Traditional Flexible Tile Spacers, both 1/8" and 1/16". These will help keep your grid consistent, 1/8" for between tiles and 1/6" for the edge of each board. These are also availabe at the big box hardware stores.
 - Something to cut your sheet materials with. This will also depend on your sheet materials. Hardboard and PVC both might require a table saw, but cardboard or corrugated sheeting would cut with a hobby or razor knife.
+- 
+
+## Reference Material
+Check out the folder in this repository for a 2D SVG, and a 3D Model, if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
 
 ## Examples
 
