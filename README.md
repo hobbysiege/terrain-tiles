@@ -25,7 +25,7 @@ For the cardboard prototype I used a cutting mat, hobby knife, metal ruler, hot 
 Check out the folder in this repository for a [2D SVG](files/terrain-tiles.svg), and a 3D Model (coming soon), if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
 
 ## How To
-A more detailed guide will be procided in a separate markdown file shortly. I took some pictures for it already, I just need to finish writing it.
+A more detailed guide will be procided in a [separate markdown file shortly](how-to.md). I took some pictures for it already, I just need to finish writing it.
 1. You will first need to cut your sheet material down into a number of `12"x12"` boards. These will be your base. If you're not sure how many, maybe start with 9 of them to make a good 3'x3' game board.
 2. Next, your sheet material will need to be cut into `1 7/8"` squares. You will need 36 of these per board, or, unfortunately, 324 for the `3'x3'` board mentioned above. If this seems overwhelming, start with just a couple boards, or reduce the number of tiles to a 3x3 grid and cut your squares to `3 7/8"`. The space between each tile will remain the same. The main down side to using a bigger grid with less tiles is control you have over the size of the terrain pieces you will put on the tiles.
   - If you are cutting these by hand, the multiples of `1 7/8"` are `1 7/8"`, `3 3/4"`, `5 5/8"`, `7 1/2"`, `9 3/8"`, and `11 1/4"`. I stopped there because I am using a 12" ruler but you get the idea.
