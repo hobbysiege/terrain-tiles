@@ -30,6 +30,7 @@ Check out the folder in this repository for a 2D SVG, and a 3D Model, if you pri
 
 ## Now What?
 With your boards made, go ahead and make some buildings, containers, walkways, and what-have-you! Put your boards next to each other, hook them together with your terrain pieces, paint it all, and game!
+Note: I like to work in multiples of 2" when measuring vertically. It almost turns this into a physical minecraft playset.
 
 ## Examples
 
