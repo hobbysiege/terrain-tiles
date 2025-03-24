@@ -15,6 +15,7 @@ I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to co
 ## Recommended Tools
 - Traditional Flexible Tile Spacers, both 1/8" and 1/16". These will help keep your grid consistent, 1/8" for between tiles and 1/6" for the edge of each board. These are also availabe at the big box hardware stores.
 - Something to cut your sheet materials with. This will also depend on your sheet materials. Hardboard and PVC both might require a table saw, but cardboard or corrugated sheeting would cut with a hobby or razor knife.
+- A ruler, tape measure, square, or anything else you might need to keep your material as square as possible while cutting it.
 
 ## Reference Material
 Check out the folder in this repository for a 2D SVG, and a 3D Model, if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
