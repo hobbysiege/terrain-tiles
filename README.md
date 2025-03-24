@@ -15,4 +15,4 @@ an open source project hoping to make a diy option for tiling modular war gaming
 ## Examples
 
 ## Contributers
-As of right now, I am the only contributer. If you want to support me, check out my [instagram page](https://www.instagram.com/hobbysiege/). If this gains traction maybe I will add a donation link.
+As of right now, I am the only contributer. If you want to support me, check out my [instagram page](https://www.instagram.com/hobbysiege/). I would also like to shout out [awesomenessdude0](https://www.instagram.com/awesomenessdude0/) for being a sounding board on this and an all around good dude. If this gains traction maybe I will add a donation link.
