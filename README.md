@@ -36,7 +36,7 @@ With your boards made, go ahead and make some buildings, containers, walkways, a
 Note: I like to work in multiples of `1 7/8"` when measuring vertically. Adding floors creates the 2" square that most of this math is based on. It almost turns this into a physical minecraft playset.
 
 # Alternatives
-- Table saw bladers are 1/8" thick. If you felt so inclined, you could get 1/4" material and cut the grooves into your boards.
+- Table saw blades are 1/8" thick. If you felt so inclined, you could get 1/4" material and cut the grooves into your boards.
 - Print it using the stl file ive added. Make modifications to it, share it back here.
 
 ## Example
