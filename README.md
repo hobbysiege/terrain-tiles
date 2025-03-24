@@ -13,3 +13,6 @@ an open source project hoping to make a diy option for tiling modular war gaming
 - Something to cut your sheet materials with. This will also depend on your sheet materials. Hardboard and PVC both might require a table saw, but cardboard or corrugated sheeting would cut with a hobby or razor knife.
 
 ## Examples
+
+## Contributers
+As of right now, I am the only contributer. If you want to support me, check out my [instagram page](https://www.instagram.com/hobbysiege/). If this gains traction maybe I will add a donation link.
