@@ -18,4 +18,4 @@ Check out the folder in this repository for a 2D SVG, and a 3D Model, if you pri
 ## Examples
 
 ## Contributers
-As of right now, I am the only contributer. If you want to support me, check out my [instagram page](https://www.instagram.com/hobbysiege/). I would also like to shout out [awesomenessdude0](https://www.instagram.com/awesomenessdude0/) for being a sounding board on this and an all around good dude. If this gains traction maybe I will add a donation link.
+As of right now, I am the only contributer. If you want to support me, check out my [instagram page](https://www.instagram.com/hobbysiege/). I would also like to shout out [awesomenessdude0](https://www.instagram.com/awesomenessdude0/) for being a sounding board on this and an all around good dude. If this gains traction maybe I will add a donation link. If you would like to contribute and know what you are doing, feel free to make a pull request. Otherwise you could open an issue.
