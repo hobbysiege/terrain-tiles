@@ -22,7 +22,8 @@ Check out the folder in this repository for a 2D SVG, and a 3D Model, if you pri
 ## How To
 1. You will first need to cut your sheet material down into a number of 12"x12" boards. These will be your base. If you're not sure how many, maybe start with 9 of them to make a good 3'x3' game board.
 2. Next, your sheet material will need to be cut into `1 7/8"` squares. You will need 36 of these per board, or, unfortunately, 324 for the 3'x3' board mentioned above. If this seems overwhelming, start with just a couple boards, or reduce the number of tiles to a 3x3 grid and cut your squares to `3 7/8"`. The space between each tile will remain the same. The main down side to using a bigger grid with less tiles is control you have over the size of the terrain pieces you will put on the tiles.
-3. Use the tile spacers to layout your grid and glue it down. The 1/16" spacers are for the outside edges of the board, this allows you to butt two boards together and continue the 1/8" spacing of the rest of the grid. This leaves the 1/8" spacers for the space between the tiles atop each board.
+  - If you are cutting these by hand, the multiples of `1 7/8"` are `1 7/8"`, `3 3/4"`, `4 5/8"`, `6 1/2"`, `8 3/8"`, and `10 1/4"`. I stopped there because I am using a 12" ruler but you get the idea.
+4. Use the tile spacers to layout your grid and glue it down. The 1/16" spacers are for the outside edges of the board, this allows you to butt two boards together and continue the 1/8" spacing of the rest of the grid. This leaves the 1/8" spacers for the space between the tiles atop each board.
 
 
 ## Now What?
