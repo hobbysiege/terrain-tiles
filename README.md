@@ -10,6 +10,9 @@ I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to co
 ## OK, And?
 And that's it. Really, I just wanted to get this out of my head, and I thought some other folks might benefit from the idea and a bit of my know-how. I'm hoping others will take the idea, feed and water it, help it grow. Then maybe I can make something cool from your ideas. I'm too cheap for Zone Mortalis, especially since it is expected you would glue your buildings down.
 
+## Is this necessary?
+Abso-f*cking-lutely not.
+
 ## Recomended Materials
 - You will need `1/8"` thick sheet material, I would recommend PVC Sheet if you can get your hands on it, but something like hardboard would work just as well and is available at the big box hardware stores. I even use cardboard for the prototype, seen in the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#example). Another option might be corrugated plastic sheeting (Coroplast).
 - Glue! This will depend entirely on your sheet materials. Traditianal xyanoacrylate (super glue) should work fine for the plastics, wood glue might be best for hardboard. Hell, hot glue might be a reasonable option for some of these. I don't know different until you tell me.
