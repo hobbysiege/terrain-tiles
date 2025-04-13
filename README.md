@@ -4,20 +4,20 @@ An open source project hoping to make a diy option for tiling modular war gaming
 ![a 3D render of this concept](images/terrain-tiles.png)
 
 ## The Terminology I use in this documentation.
-I will refer to the bigger, `~12"x12"` base squares with the term "boards". The gridded squares that are atop them will be referred to as "tiles".
+I will refer to the bigger, `12"x12"` base square with the term "board". The gridded squares that are atop them will be referred to as "tiles".
 
 ## The Idea
-I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to come up with an alternative. This design improves upon those (in my opinion) by presenting an open source, repeatable, DIY framework that doesnt require glueing anything down. I wanted a `12"x12"` board with a 6x6 grid to mimic the name brand option, and I wanted to figure out all the math for you. A system like this shines for a game like Necromunda. Each terrain element should sit into the recesses we create with the tiles.
+I thought the Zone Mortalis: Floor Tile Set  was a neat concept and wanted to come up with an alternative. This design improves upon those (in my opinion) by presenting an open source, repeatable, DIY framework that doesnt require glueing your terrain down. I wanted a `12"x12"` board with a 6x6 grid to mimic the name brand option, and I wanted to figure out all the math for you. A system like this shines for a game like Necromunda. Each terrain element should sit into the recesses we create with the tiles.
 
 ## OK, And?
 And that's it. Really, I just wanted to get this out of my head, and I thought some other folks might benefit from the idea and a bit of my know-how. I'm hoping others will take the idea, feed and water it, help it grow. Then maybe I can make something cool from your ideas. I'm too cheap for Zone Mortalis, especially since it is expected you would glue your buildings down.
 
-## Is this necessary?
+## Is any of this necessary?
 Abso-f*cking-lutely not.
 
 ## Recomended Materials
 - You will need `1/8"` thick sheet material, I would recommend PVC Sheet if you can get your hands on it, but something like hardboard would work just as well and is available at the big box hardware stores. I even use cardboard for the prototype, seen in the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#example). Another option might be corrugated plastic sheeting (Coroplast).
-- Glue! This will depend entirely on your sheet materials. Traditianal xyanoacrylate (super glue) should work fine for the plastics, wood glue might be best for hardboard. Hell, hot glue might be a reasonable option for some of these. I don't know different until you tell me.
+- Glue! This will depend entirely on your sheet materials. Traditianal cyanoacrylate (aka CA glue or super glue) should work fine for the plastics, wood glue might be best for hardboard. Hell, hot glue might be a reasonable option for some of these. I don't know different until you tell me.
 - Thats it really, you will probably want to decorate these someway with paints. In the [example](https://github.com/hobbysiege/terrain-tiles/blob/main/README.md#example) I just used permant marker on the cardboard. I think it gives it a charming cell-shaded like appearance.
 
 ## Recommended Tools
@@ -27,7 +27,7 @@ Abso-f*cking-lutely not.
 For the cardboard prototype I used a cutting mat, hobby knife, metal ruler, hot glue, and a permanent marker.
 
 ## Reference Material
-Check out the folder in this repository for a [2D SVG](files/terrain-tiles.svg), and a 3D Model (coming soon), if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
+Check out the `files` folder in this repository for a 2D SVG, and a 3D Model, if you print this, let me know! Feel free to add some texture to the tiles and share that back here.
 
 ## How To
 A more detailed guide will be procided in a [separate markdown file shortly](how-to.md). I took some pictures for it already, I just need to finish writing it.
@@ -42,7 +42,7 @@ Note: I like to work in multiples of `1 7/8"` when measuring vertically. Adding 
 
 ## Alternatives
 - Table saw blades are 1/8" thick. If you felt so inclined, you could get 1/4" material and cut the grooves into your boards.
-- Print it using the stl file ive added. Make modifications to it, share it back here.
+- Print it using the stl file I've added. Make modifications to it, share it back here.
 
 ## Example
 ![a cardboard example of this concept](images/6.jpg)
