@@ -1,6 +1,8 @@
 # terrain-tiles
 An open source project hoping to make a diy option for tiling modular war gaming terrain. Catchy, right?
 
+![a 3D render of this concept](images/terrain-tiles.png)
+
 ## The Terminology I use in this documentation.
 I will refer to the bigger, `~12"x12"` base squares with the term "boards". The gridded squares that are atop them will be referred to as "tiles".
 
